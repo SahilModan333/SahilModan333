@@ -98,19 +98,18 @@ Education: M.Sc. IT (IMS and Cloud Technology), Gujarat University, 2020 to 2022
 
 ## GitHub stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SahilModan333&show_icons=true&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SahilModan333&show_icons=true&theme=default&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahilModan333&show_icons=true&theme=default" alt="Sahil's GitHub stats">
-</picture>
+[![GitHub followers](https://img.shields.io/github/followers/SahilModan333?style=flat-square&logo=github)](https://github.com/SahilModan333?tab=followers)
+[![GitHub repos](https://img.shields.io/badge/Public%20repositories-26-0078D4?style=flat-square&logo=github)](https://github.com/SahilModan333?tab=repositories)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilModan333&layout=compact&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilModan333&layout=compact&theme=default&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilModan333&layout=compact&theme=default" alt="Top languages">
-</picture>
+| | |
+| --- | --- |
+| **Public repositories** | 26 |
+| **Followers** | 1 |
+| **Following** | 4 |
+| **On GitHub since** | 28 Feb 2024 |
+| **Main languages in own work** | TypeScript, Shell, CSS |
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SahilModan333&theme=tokyo-night&hide_border=true)
+See the full contribution graph on my profile below this README, and my pinned repositories for the strongest work.
 
 ## Let's work together
 
