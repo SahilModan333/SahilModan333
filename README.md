@@ -1,3 +1,5 @@
+![Animated banner](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00C6FF&height=140&section=header)
+
 <div align="center">
 
 # Hi, I'm Sahil Modan
@@ -6,7 +8,7 @@
 
 **Engineering reliable infrastructure. Automating everything. Building for scale.**
 
-![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Azure+%7C+AKS+%7C+Terraform+%7C+Docker;CI%2FCD+%7C+Automation+%7C+Observability;Production+platforms+that+stay+up)
+![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=0078D4&center=true&vCenter=true&width=800&lines=Azure+%7C+AKS+%7C+Terraform+%7C+Docker;CI%2FCD+%7C+Automation+%7C+Observability;Production+platforms+that+stay+up)
 
 Open to DevOps / SRE / Cloud Engineering opportunities. Based in Bengaluru, India.
 
@@ -117,3 +119,5 @@ Have an infrastructure challenge? Let's build something reliable.
 - Portfolio: https://www.sahildevops.me/
 - GitHub: https://github.com/SahilModan333
 - LinkedIn: https://www.linkedin.com/in/sahil-modan
+
+![Animated footer](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00C6FF&height=120&section=footer)
