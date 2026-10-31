@@ -96,21 +96,6 @@ A straightforward DevOps pipeline showing how code is managed with Git Flow, bui
 
 Education: M.Sc. IT (IMS and Cloud Technology), Gujarat University, 2020 to 2022. B.Sc., Gujarat University, 2016 to 2019.
 
-## GitHub stats
-
-[![GitHub followers](https://img.shields.io/github/followers/SahilModan333?style=flat-square&logo=github)](https://github.com/SahilModan333?tab=followers)
-[![GitHub repos](https://img.shields.io/badge/Public%20repositories-26-0078D4?style=flat-square&logo=github)](https://github.com/SahilModan333?tab=repositories)
-
-| | |
-| --- | --- |
-| **Public repositories** | 26 |
-| **Followers** | 1 |
-| **Following** | 4 |
-| **On GitHub since** | 28 Feb 2024 |
-| **Main languages in own work** | TypeScript, Shell, CSS |
-
-See the full contribution graph on my profile below this README, and my pinned repositories for the strongest work.
-
 ## Let's work together
 
 Have an infrastructure challenge? Let's build something reliable.
